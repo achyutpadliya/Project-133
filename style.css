@@ -1,0 +1,22 @@
+body{
+    background-image: url("MOUNTAINWALLPAPER.jpeg");
+   background-size: cover;
+   background-position: center;
+}
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 20px;
+}
+
+canvas{
+box-shadow: 11px 12px 13px rgb(70, 67, 67);
+border-radius: 10px;
+}
